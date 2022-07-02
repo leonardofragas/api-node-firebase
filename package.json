@@ -1,0 +1,17 @@
+{
+  "name": "api-node-firebase",
+  "version": "1.0.0",
+  "description": "Demo to create rest API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leonardo Fragas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "firebase": "^9.8.4",
+    "firebase-admin": "^11.0.0"
+  }
+}
